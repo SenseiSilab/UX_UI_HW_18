@@ -178,23 +178,6 @@ button.hover {
 }
 
 /*skills section*/
-.skills-section {
-    display: block;
-    width: 10%;
-}
-
-.skills-items {
-    font-size: 18px;
-    display: inline-block;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.skills-items li {
-    display: inline-block;
-    padding: 0px 20px;
-    list-style-type: none;
-}
 
 
 /*footer*/
